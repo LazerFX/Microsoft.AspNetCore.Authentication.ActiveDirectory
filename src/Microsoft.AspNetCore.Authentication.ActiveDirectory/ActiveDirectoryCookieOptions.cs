@@ -1,5 +1,6 @@
-﻿using Microsoft.AspNet.Authentication.Cookies;
-using Microsoft.AspNet.Http;
+﻿using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Http;
 using System;
 using System.Collections.Generic;
 using System.Linq;
